@@ -1,4 +1,4 @@
-# Predicting-the-number-of-likes-on-Instagram-using-regression-techniques
+# Predicting the number of likes on Instagram using regression techniques
 Developed regression-based machine learning models to predict the **number of likes on Instagram posts** using engagement, content, and posting-related features from the `Instagram_Data.csv` dataset.
 
 ---
